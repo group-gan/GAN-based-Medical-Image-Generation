@@ -1,0 +1,5 @@
+BEGAN (128Å~128)
+
+Model Same Network as DCGAN with 128 Latent Vectors
+Training Epochs/Batch Size: 10/16
+Weights: Adam Optimizer with 8.0 Å~ 1e-5 Learning Rate

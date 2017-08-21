@@ -1,0 +1,11 @@
+WGAN (64Å~64)
+
+Model Same Network as DCGAN with 128 Latent Vectors
+Training Epochs/Batch Size: 100/64
+Weights: Adam Optimizer with 5.0 Å~ 1e-5 Learning Rate
+
+WGAN (128Å~128)
+
+Model Same Network as DCGAN with 128 Latent Vectors
+Training Epochs/Batch Size: 10/64
+Weights: Adam Optimizer with 5.0 Å~ 1e-5 Learning Rate

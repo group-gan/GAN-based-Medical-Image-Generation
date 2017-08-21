@@ -1,0 +1,7 @@
+		  Selected as real Selected as synt
+Ground truth real 	 34 		  16
+Ground truth synt 	  7 		  43
+
+Human Classification Accuracy: 77 % (chance = 50%)
+Sensitivity: 68.00 %
+Specificity: 86.00 %

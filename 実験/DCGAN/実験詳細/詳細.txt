@@ -1,0 +1,6 @@
+DCGAN (128Å~128)
+
+Model Same Network as DCGAN with no tanh in Generator
+Discriminator: ELU, Filter Size: 4 Å~ 4, Channels: half
+Training Epochs/Batch Size: 10 / 64
+Weights: Adam Optimizer with 2.0 Å~ 1e-4 Learning Rate
